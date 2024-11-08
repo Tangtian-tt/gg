@@ -1,0 +1,783 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-20T10:27:57.684",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "wjk",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-20T11:44:28.824",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-23T16:33:15.201",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Movie object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-23T16:34:02.501",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Movie object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-23T16:35:30.862",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Movie object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-23T16:36:49.977",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Movie object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-23T16:37:04.535",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u7535\\u5f71\\u8d44\\u6e90\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-23T16:37:32.948",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u7535\\u5f71\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-25T17:49:17.389",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Book object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-09-25T17:51:10.319",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Book object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-25T17:53:24.383",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Book object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-25T17:54:46.504",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Book object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-10-21T16:01:26.043",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "独眼少女",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-10-21T16:01:37.845",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "地下偶像杀人事件",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-10-21T16:01:45.548",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "地下偶像杀人事件",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-10-21T16:03:11.188",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "独眼少女",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-10-21T16:03:21.496",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "回忆爱玛侬",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-10-21T16:03:31.969",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "恶女的告白",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-10-21T16:03:44.928",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "地下偶像杀人事件",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u6d77\\u62a5\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add movie",
+    "content_type": 7,
+    "codename": "add_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change movie",
+    "content_type": 7,
+    "codename": "change_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete movie",
+    "content_type": 7,
+    "codename": "delete_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view movie",
+    "content_type": 7,
+    "codename": "view_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add 读书",
+    "content_type": 8,
+    "codename": "add_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change 读书",
+    "content_type": 8,
+    "codename": "change_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete 读书",
+    "content_type": 8,
+    "codename": "delete_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view 读书",
+    "content_type": 8,
+    "codename": "view_book"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$XM3KGej8mRxfD8kJB0gnkG$N1tL3cXDFsX0aGwXHkmKg7dNFz8oVQ8HtzHP49hyhiA=",
+    "last_login": "2024-10-21T16:01:15.742",
+    "is_superuser": true,
+    "username": "tt",
+    "first_name": "",
+    "last_name": "",
+    "email": "2820979422@qq.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-14T17:59:45.890",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$weOOzK8G05TWAnj77ALybU$6plIKdM2UAr+38wo6QrMR5jK9nmSHTCj1+xdTP2O+N0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "wjk",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-09-20T10:27:57.352",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "movie",
+    "model": "movie"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "book",
+    "model": "book"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "6wjkogq5zo9jmodba5n6knynlxt6mzkx",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1t2nLn:Ri2sOdBgJQJmwBp9-yBIU2-FJSZiJgX2FjxJ5yprnac",
+    "expire_date": "2024-11-04T16:01:15.749"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8nyxpxk40cuzbsl1s51n8r6ofbwabmef",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1stOJo:cIQuL8W9K2oyaM9i-qmuuhBQtvSrZvgUTIE2z1Hdn4A",
+    "expire_date": "2024-10-09T17:28:20.628"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "d8wny6g1nq3vmeusm591xbauz23brqru",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1srTJv:RDkOGeTC7xS5OSwGAb0tWE2Rk2qRrjM8ySZHgoORZ00",
+    "expire_date": "2024-10-04T10:24:31.271"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "e8yh0zlsvo5zuh5kivvclep8zzkr8qr1",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1sujck:IaA-yMS3YeEqFjSxGbP8Njg_562b2mx8A5-Z_B-jo30",
+    "expire_date": "2024-10-13T10:25:26.546"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ucfl9q65rvwmhoaejq19423pc7ydhipj",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1su1We:rnhG-7qRG2B3uoeyw9oBGKQaEh_njAtAdh4WKjgrQLM",
+    "expire_date": "2024-10-11T11:20:12.179"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "va1zzdvfsyvk9kruk2blcceg9olboh8i",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1sseRS:d-2RHEi2-9XZDeVj3S7xKzxf7qYSJjsib-sPqoNTTlE",
+    "expire_date": "2024-10-07T16:29:10.991"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zklqqls7ynry0rjl7n6k14ptjwk08yzm",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSFCgCsu3fsN5D5AqoYmpV01_rtt0oVuZ-acVSVc5pqWnqc0iLoqo06_jJBfue1Cntgeo-axzdNAek_0Ybu-j5Lft6P9O6jY67Yu7ODCmCl7W1zhWKID6zwY8RtlYWM5gDtHogjR24gOQyDvg0AwWX2-B7U4TA:1spPa4:lDCS6iQgc6WA6zh8QcSMNsX2e_v2zdR7nB1NdtKtZXY",
+    "expire_date": "2024-09-28T18:00:40.478"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 1,
+  "fields": {
+    "title": "野孩子",
+    "description": "影片取材自“流浪兄弟”真实事件，聚焦“社会困境儿童”群体。讲述了⼀段“小偷”哥哥和“孤⼉”弟弟的流浪路，⼀场温暖的守护与救赎。\r\n　　独自流浪生活的男孩马亮（王俊凯 饰）机缘巧合下遇见了被家人遗忘、无人关照的孩子轩轩（关子勰 饰），相似的命运让两个孤独的少年渐行渐近，风雨中他们一起建立了一个小小的家，拥抱取暖彼此守护。然而一场意外打破了一切，一群不速之客闯入了他们的生活，马亮和轩轩的命运又将何去何从……",
+    "image": "movie/images/p2912657832_2OaOwEB.webp",
+    "url": "https://movie.douban.com/subject/36399203/"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 2,
+  "fields": {
+    "title": "姥姥的外孙",
+    "description": "出身泰国华人家庭的无业年轻人阿安（马群耀 饰）看到堂妹因照顾病重的爷爷而继承房产后，也对身患绝症的姥姥（乌萨·萨梅坎姆 饰）动了心思，计划复刻堂妹的“致富之路”获取百万遗产。但面对同样“努力”的舅舅们和挑剔毒舌的姥姥，阿安这条争当全职孝孙的“啃姥致富”之路似乎没有他预想的那么顺利……",
+    "image": "movie/images/p2911511570.webp",
+    "url": "https://movie.douban.com/subject/36328210/"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 3,
+  "fields": {
+    "title": "出走的决心",
+    "description": "影片根据50岁阿姨自驾游真人故事改编。\r\n　　天真浪漫的李红（咏梅 饰）一生有过许多梦想，18岁时憧憬大学，25岁时憧憬爱情，45岁时憧憬远游……但为了那些“对别人来说更重要”的事，她只能一等再等，也一再错过。50岁，她决心不再等待，活出不一样的人生！",
+    "image": "movie/images/p2912807698.webp",
+    "url": "https://movie.douban.com/subject/36587974/"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 4,
+  "fields": {
+    "title": "里斯本丸沉没",
+    "description": "这是一部东方的“敦刻尔克”，是一部关于纪念中国渔民伟大壮举的纪录片电影。电影人方励和摄制组通过详尽的历史调查，极尽所能地寻访英、美、日、中核心当事人及后代，试图无限接近中国舟山东极岛附近海底30米处的二战“死亡之船”——“里斯本丸”的沉船真相。",
+    "image": "movie/images/p2912588024.webp",
+    "url": "https://movie.douban.com/subject/30412658/"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 5,
+  "fields": {
+    "title": "泳者之心",
+    "description": "影片改编自历史上首位横渡英吉利海峡女泳者的真实传奇经历。无惧时代禁锢和社会偏见，特鲁迪·埃德尔（黛西·雷德利 Daisy Ridley 饰）破纪录跨越34公里天堑，直面惊涛骇浪，克服水母刺蜇……任何质疑和危险都无法阻挡一颗勇敢的心。",
+    "image": "movie/images/p2910815887.webp",
+    "url": "https://movie.douban.com/subject/26656728/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 1,
+  "fields": {
+    "title": "独眼少女",
+    "description": "◎少女侦探冷酷登场，真相之瞳熠熠生辉！\r\n\r\n◎日本推理新本格派旗帜性人物麻耶雄嵩扛鼎之作\r\n\r\n同时荣获本格推理大奖、推理作家协会奖、“本格推理BEST10”榜首\r\n\r\n岛田庄司、绫辻行人等推理大师盛赞\r\n\r\n------------------------------------------------\r\n\r\n★内容介绍\r\n\r\n准备在初雪降临之日告别人世的大学生种田静马，来到了位于深山中的栖苅村。村中有个传说，一千多年前，巨龙异动引发灾难，琴折家的女儿“栖苅”以蓬莱之琴击败了巨龙，此后这股力量由“栖苅”之女代代相传，村子因此得到安宁。\r\n\r\n不料，静马到来后这里却发生了少女斩首事件，被害者是栖苅大人的继承人。静马遭到怀疑，出生于侦探世家、年仅十七岁的御陵御影登场，通过巧妙的推理拯救了他。这个拥有一只水晶义眼的天才少女，将首次以侦探的身份投身扑朔迷离的犯罪舞台！",
+    "image": "book/images/s34949800.jpg",
+    "url": "https://book.douban.com/subject/36944376/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 2,
+  "fields": {
+    "title": "恶女的告白",
+    "description": "1 日本社会派推理大师叶真中显新作\r\n\r\n日本推理作家协会奖、《这本推理小说了不起》大奖、《周刊文春》年度推理小说榜、日本推理文学大奖新人奖、渡边淳一文学奖、吉川英治文学新人奖、书店大奖、大薮春彦奖获得者新作。\r\n\r\n2 时隔十年，《绝叫》后，再写“恶女”的复仇与重生\r\n\r\n这部作品以“性别歧视”“性暴力”为主题。不客气地说，现在的日本社会是为男性而创造的， 即所谓的“男权社会”。我本身就是男权既得利益者，无法置身事外。我想通过这部作品，重新审视这样的社会。——叶真中显\r\n\r\n3 本作、作中作、作中作中作层层反转\r\n\r\n不杀了他们，我就会被他们杀死\r\n\r\n知晓一切的你，愿意成为我的共犯吗？\r\n\r\n“太郎涨大的生殖器上有无数烫痕。之前的饲主用的是火烧，那我就试着把它切了吧。”\r\n\r\n七年前文学编辑梨帆收到了一篇叫做《养狗》的投稿，小说充斥着残暴的施虐倾向和对男性的嫌恶。作品被评为“重口味、贬低男性”而没有出版，作者也从此销声匿迹。\r\n\r\n七年后，梨帆收到了当年那位神秘作家的第二篇投稿，故事从两位学生时代的老友重逢开始，立场不同的两人在对话产生了分歧，杀意越来越强烈。\r\n\r\n“干脆杀了这个女人吧。”\r\n\r\n随着剧情的推移梨帆惊奇地在小说主人公身上看到了自己的影子，更可怕的是，这部小说好像还和七年前那篇暴戾的《养狗》有着千丝万缕的联系……",
+    "image": "book/images/s34917944.jpg",
+    "url": "https://book.douban.com/subject/36743030/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 3,
+  "fields": {
+    "title": "地下偶像杀人事件",
+    "description": "★2024年 “这本推理小说了不起” 新人奖获奖作品\r\n\r\n“我希望，我们三个可以一起继续当偶像。”\r\n\r\n以大阪为据点展开偶像活动的地下偶像组合“星光★宝贝”，\r\n\r\n在关西圈内维持着不上不下的尴尬人气。\r\n\r\n组合内部三名成员关系也长期不和，\r\n\r\n前C位黛玛歌舞俱佳，却被歌舞都不如自己的新人和泉夺走了C位。\r\n\r\n两人间的隔阂日益加深，组合随时处于解散的边缘。\r\n\r\n其中，只是随波逐流碰巧成为偶像的瑠衣，\r\n\r\n对偶像这份工作毫无执念与憧憬。\r\n\r\n就在她终于下定决心，要从组合引退之时，\r\n\r\n突然接到了成员打来的电话。\r\n\r\n赶到事务所后，出现在她面前的是倒在地上的社长的尸体……\r\n\r\n怀抱着登上偶像界巅峰的决心，以及绝不能被人知晓的巨大秘密，少女们开始了走钢丝般闪耀而危险的偶像之路。",
+    "image": "book/images/s34917237.jpg",
+    "url": "https://book.douban.com/subject/36906327/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 4,
+  "fields": {
+    "title": "回忆爱玛侬",
+    "description": "不论是在一起几小时，还是几十年，对她来说都只是一瞬间。 一九六七年，双子座计划告一段落，阿波罗登月计划尚在筹备，阿波罗一号飞船发生了宇宙探索史上第一起死亡事故，人类离月亮还很遥远的那一年。 还是个学生的我，遇到了爱玛侬。",
+    "image": "book/images/s34925368.jpg",
+    "url": "https://book.douban.com/subject/36913872/"
+  }
+}
+]
